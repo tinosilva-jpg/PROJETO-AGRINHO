@@ -1,0 +1,13 @@
+body{
+    background-color: chartreuse;
+    color: #2debe8;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flexbox;
+    justify-content: center;
+    margin: 0;
+}
+button{
+    background-color: darkorange;
+    color: gold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
